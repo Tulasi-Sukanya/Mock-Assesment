@@ -83,11 +83,11 @@ footer{
    }
    #hidden button{
     align-items: center;
-    width: 450px;
+    width: 300px;
     height: 30px;
     border-radius: 10px;
     font-weight: bold;
-    font-size:20px ;
+    font-size:15px ;
     background-color: white;;
    }
    h1{
@@ -112,3 +112,4 @@ footer{
     font-size: 30px;
    }
 }
+    
